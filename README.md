@@ -1,6 +1,6 @@
 # React JavaScript to TypeScript Transform
 
-[![Build Status](https://travis-ci.org/lyft/react-javascript-to-typescript-transform.svg?branch=master)](https://travis-ci.org/lyft/react-javascript-to-typescript-transform)
+[![Build Status](https://travis-ci.org/mohsen1/react-javascript-to-typescript-transform.svg?branch=master)](https://travis-ci.org/mohsen1/react-javascript-to-typescript-transform)
 
 Transforms React code written in JavaScript to TypeScript.
 
