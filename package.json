@@ -34,7 +34,7 @@
         "chalk": "^2.4.1",
         "commander": "^2.15.1",
         "detect-indent": "^5.0.0",
-        "glob": "^7.1.2",
+        "glob": "^7.2.3",
         "lodash": "^4.17.10",
         "prettier": "^1.12.1",
         "typescript": "2.8.3"
